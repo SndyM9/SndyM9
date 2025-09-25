@@ -5,8 +5,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2500&pause=500&color=3B7577&center=true&vCenter=true&width=435&lines=Haii+%3AD%2C+I%60m+Sandy;I+liek+javascript+and+vintage+teal+%3A3" alt="Typing SVG" /></a>
 <p>
+
 <!-- <h3 align="center">Hobbyist Dev</h3> -->
-<hr>
 
 ```js
 // TODO: read docs
