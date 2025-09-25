@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.redd.it/2wp4s5yobgga1.gif" height="200" alt="swim">
+  <img src="https://files.catbox.moe/zngpfe.gif" height="200" alt="swim">
 </h1>
 
 <p align="center">
