@@ -1,6 +1,10 @@
-<h1 align="center">
+<div style="width: 100%;">
+    <img src="https://gist.githubusercontent.com/SndyM9/c6cdb2f1da5df51f35d2fb0920163fe7/raw/d13f95cb6699462b31d2354a6be2bad65ac0d838/trenches.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
+<!-- <h1 align="center">
   <img src="https://files.catbox.moe/zngpfe.gif" height="200" alt="swim">
-</h1>
+</h1> -->
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2500&pause=500&color=3B7577&center=true&vCenter=true&width=435&lines=Haii+%3AD%2C+I%60m+Sandy;I+liek+javascript+and+vintage+teal+%3A3" alt="Typing SVG" /></a>
